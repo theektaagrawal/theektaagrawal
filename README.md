@@ -4,16 +4,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Ekta Agrawal</h1>
-<h3 align="center">A Driven Dreamer, Disruptive Innovator and Compassionate Impact Maker</h3>
+<h3 align="center">A Dreamer, Innovator and Changemaker</h3>
 
 
-- 🕵🏻 I love to explore various **tech domains** 
+- 🕵🏻 I am Co-founder of SheBuilds: an ecosystem to empower women in tech and entrepreneurship
   
 - 🚀 I’m currently spearheading **NeuroSpark**
 
-- 🛠 I build **creative web designs** and **immersive AR creations**
-
-- 📖 I enjoy learning and experimenting in the field of **Gen AI**
+- 🛠 I build **impactful AI solutions** and **immersive AR effects**
 
 - 📩 Contact me at **theektaagrawal@gmail.com**
 
